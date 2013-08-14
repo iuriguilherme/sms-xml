@@ -1,5 +1,5 @@
 <? xml version="1.0" encoding="UTF-8" ?>
-<sms version="0.2">
+<sms version="0.3">
 	<date version="0.3">
 		<year version="0.1"></year>
 		<month version="0.1"></month>
