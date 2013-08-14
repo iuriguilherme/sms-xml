@@ -1,7 +1,36 @@
 <? xml version="1.0" ?>
-<sms version="0.1">
-	<date version="0.1"></date>
-	<sender version="0.1"></sender>
-	<recipient version="0.1"></recipient>
+<sms version="0.2">
+	<date version="0.2">
+		<year version="0.1"></year>
+		<month version="0.1"></month>
+		<day version="0.1"></day>
+		<hour version="0.1"></hour>
+		<minute version="0.1"></minute>
+		<second version="0.1"></second>
+	</date>
+	<sender version="0.2">
+		<number version="0.1">
+			<countrycode version="0.1" reccomendation="E.164"></countrycode>
+			<nationalcode version="0.1" reccomendation="E.164"></nationalcode>
+			<subscribernumber version="0.1"  reccomendation="E.164"></subscribernumber>
+			<tsp version="0.1"></tsp>
+		</number>
+		<name version="0.1">
+			<real version="0.1"></real>
+			<alias version="0.1"></alias>
+		</name>
+	</sender>
+	<recipient version="0.2">
+		<number version="0.1">
+			<countrycode version="0.1" reccomendation="E.164"></countrycode>
+			<nationalcode version="0.1" reccomendation="E.164"></nationalcode>
+			<subscribernumber version="0.1"  reccomendation="E.164"></subscribernumber>
+			<tsp version="0.1"></tsp>
+		</number>
+		<name version="0.1">
+			<real version="0.1"></real>
+			<alias version="0.1"></alias>
+		</name>
+	</recipient>
 	<message version="0.1"></message>
 </sms>
