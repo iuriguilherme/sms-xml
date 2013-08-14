@@ -1,0 +1,7 @@
+<? xml version="1.0" ?>
+<sms version="0.1">
+	<date version="0.1"></date>
+	<sender version="0.1"></sender>
+	<recipient version="0.1"></recipient>
+	<message version="0.1"></message>
+</sms>
