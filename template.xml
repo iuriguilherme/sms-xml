@@ -10,9 +10,9 @@
 	</date>
 	<sender version="0.2">
 		<number version="0.1">
-			<countrycode version="0.1" reccomendation="E.164"></countrycode>
-			<nationalcode version="0.1" reccomendation="E.164"></nationalcode>
-			<subscribernumber version="0.1"  reccomendation="E.164"></subscribernumber>
+			<country_code version="0.1" reccomendation="E.164"></country_code>
+			<national_code version="0.1" reccomendation="E.164"></nationa_lcode>
+			<subscriber_number version="0.1"  reccomendation="E.164"></subscriber_number>
 			<tsp version="0.1"></tsp>
 		</number>
 		<name version="0.1">
@@ -22,9 +22,9 @@
 	</sender>
 	<recipient version="0.2">
 		<number version="0.1">
-			<countrycode version="0.1" reccomendation="E.164"></countrycode>
-			<nationalcode version="0.1" reccomendation="E.164"></nationalcode>
-			<subscribernumber version="0.1"  reccomendation="E.164"></subscribernumber>
+			<country_code version="0.1" reccomendation="E.164"></country_code>
+			<national_code version="0.1" reccomendation="E.164"></national_code>
+			<subscriber_number version="0.1"  reccomendation="E.164"></subscriber_number>
 			<tsp version="0.1"></tsp>
 		</number>
 		<name version="0.1">
