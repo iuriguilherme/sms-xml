@@ -1,12 +1,22 @@
 <? xml version="1.0" encoding="UTF-8" ?>
 <sms version="0.2">
-	<date version="0.2">
+	<date version="0.3">
 		<year version="0.1"></year>
 		<month version="0.1"></month>
 		<day version="0.1"></day>
 		<hour version="0.1"></hour>
 		<minute version="0.1"></minute>
 		<second version="0.1"></second>
+		<iso8601 version="0.1">
+			<date version="0.1"></date>
+			<week_date version="0.1"></week_date>
+		</iso8601>
+		<posix version="0.1">
+			<date version="0.1"></date>
+		</posix>
+		<rfc3339 verson="0.1">
+			<date version="0.1"></date>
+		</rfc3339>
 	</date>
 	<sender version="0.2">
 		<number version="0.1">
